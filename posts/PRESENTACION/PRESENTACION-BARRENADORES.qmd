@@ -1,7 +1,7 @@
 ---
 title: "Insectos barrenadores en el cultivo de
  aguacate Hass en Veracruz"
-author: "Juan José Herna+ádez Viveros"
+author: "Juan José Hernández Viveros"
 format:
   revealjs:
     controls: true
