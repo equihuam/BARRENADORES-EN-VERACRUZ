@@ -8,7 +8,7 @@ image: "images/Presentación de diseño de arquitectura y construcción minimali
 
 La palomilla barrenadora del aguacate, científicamente conocida como Stenoma catenifer, es una pequeña mariposa nocturna que representa una de las plagas más dañinas para los cultivos de aguacate en México y otras regiones de América Latina. Esta especie pertenece al orden Lepidoptera y se especializa en atacar frutos y brotes de árboles de la familia Lauraceae, principalmente el aguacate (Persea americana), pero también otras especies relacionadas.
 
-![](images/Captura de pantalla 2025-06-07 003747.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-07%20003747.png){fig-align="center"}
 
 Ciclo de Vida y Comportamiento El ciclo biológico completo de Stenoma catenifer dura aproximadamente entre 44 y 49 días, dependiendo de la temperatura ambiental. Durante los meses cálidos, el ciclo es más corto, con etapas que incluyen huevo (5.5 días), larva (18.5 días), pupa (14.1 días) y adulto (5.7 días). En meses fríos, estas etapas se prolongan ligeramente.
 
@@ -30,6 +30,6 @@ En México, esta plaga está presente en varios estados productores, incluidos V
 
 ¡Por Qué Nos Preocupa? La preocupación principal radica en que Stenoma catenifer afecta directamente la calidad y cantidad de la producción de aguacate, un producto de alta demanda mundial y gran valor económico para México. Además, la presencia de esta plaga limita la posibilidad de exportar a mercados que exigen frutas libres de insectos cuarentenarios, afectando la competitividad internacional del aguacate mexicano.
 
-![](images/Captura de pantalla 2025-06-07 004719.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-07%20004719.png){fig-align="center"}
 
 El control de esta plaga es complejo porque sus larvas se desarrollan dentro del fruto, dificultando su detección y manejo. Además, la palomilla puede afectar árboles jóvenes y brotes, comprometiendo la salud y productividad de las plantaciones a largo plazo.
