@@ -1,0 +1,32 @@
+---
+title: "Impacto y distribución un reto para Veracruz y México"
+format: html
+author: "Juan José Hernández Viveros"
+date: "2025-06-10"
+categories: [Producción, Aguacate]
+image: images/Presentación de diseño de arquitectura y construcción minimalista moderno blanco y celeste (1).jpg
+---
+
+La palomilla barrenadora del aguacate, Stenoma catenifer, no solo representa una amenaza biológica para los cultivos de aguacate, sino que también conlleva un significativo impacto económico y una distribución geográfica que complican su manejo y control en México, especialmente en el estado de Veracruz.
+
+Impacto Económico en la Producción de Aguacate El principal daño económico de Stenoma catenifer es causado por las larvas que se alimentan de los frutos, deformándolos . Esta acción reduce el rendimiento de la fruta, con posibles pérdidas de hasta un 90% cuando no se implementan medidas de control adecuadas. La presencia de la plaga puede llevar al rechazo de la fruta en mercados nacionales e internacionales, afectando la rentabilidad de los productores y limitando las exportaciones.
+
+![](images/OIP.webp){fig-align="center"}
+
+Veracruz, aunque ocupa el onceavo lugar a nivel nacional en la producción de aguacate, con hectáreas plantadas y en producción, enfrenta desafíos particulares debido a esta plaga. La infestación no solo disminuye la cantidad de fruta cosechada, sino que también incrementa los costos de producción debido a la necesidad de aplicar medidas de control fitosanitario.
+
+Distribución Geográfica y Dispersión de la Plaga Stenoma catenifer es una plaga ampliamente distribuida en América, desde México hasta Brasil, lo que dificulta su control a nivel regional. En México, se encuentra en diversos estados productores de aguacate, incluyendo Veracruz, Michoacán, Jalisco, y otros. En Veracruz, se ha reportado la presencia generalizada de la palomilla barrenadora en la región central aguacatera.
+
+La dispersión de la plaga ocurre principalmente a través del movimiento de frutos infestados, ya que los adultos no suelen realizar vuelos largos. Esto significa que la movilización de aguacates entre regiones puede contribuir a la propagación de Stenoma catenifer, haciendo esencial la implementación de medidas de control fitosanitario y la certificación de huertos para asegurar que la fruta esté libre de la plaga.
+
+Retos para el Control y Manejo en Veracruz y México El control de Stenoma catenifer presenta varios retos:
+
+Detección temprana: Las larvas se desarrollan dentro de los frutos, lo que dificulta su detección y control.
+
+Manejo integrado: Se requiere un enfoque integrado que combine monitoreo constante, control biológico, cultural y químico para reducir las poblaciones de la plaga.
+
+Coordinación regional: Dada la amplia distribución de la plaga, es necesaria la coordinación entre estados y países para implementar estrategias de manejo efectivas.
+
+Concientización y capacitación: Los productores necesitan estar informados y capacitados sobre las mejores prácticas para el manejo de Stenoma catenifer y otras plagas del aguacate.
+
+Acciones Fitosanitarias Para proteger las zonas productoras de aguacate, el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA) implementa campañas fitosanitarias que incluyen el monitoreo, control y erradicación de plagas reglamentadas, como Stenoma catenifer. Estas acciones contribuyen a mantener bajo control las infestaciones y a proteger la producción de aguacate en México. Durante el mes de octubre, se detectaron 260 hectáreas con palomilla barrenadora en los estados de Colima, Jalisco y Veracruz, con un porcentaje de infestación del 9.6%
