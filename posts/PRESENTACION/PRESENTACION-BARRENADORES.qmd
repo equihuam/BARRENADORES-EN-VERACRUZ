@@ -1,0 +1,78 @@
+---
+title: "Insectos barrenadores en el cultivo de
+ aguacate Hass en Veracruz"
+author: "Juan José Herna+ádez Viveros"
+format:
+  revealjs:
+    controls: true
+    navigation-mode: vertical
+    selfcontained: true 
+    css: styles.css
+    footer: "[inicio](../../index.qmd)"
+---
+
+# INTRODUCCIÓN
+
+![](images/Captura de pantalla 2025-06-13 204223.png){fig-align="center"}
+
+# Plagas cuarentenarias de aguacate (*Persea americana*)
+
+![](images/Captura de pantalla 2025-06-07 003747.png){fig-align="center"}
+
+# Daños
+
+![](images/Captura de pantalla 2025-06-07 004719.png){fig-align="center"}
+
+# JUSTIFICACIÓN
+
+![](images/Captura de pantalla 2025-06-10 185722.png){fig-align="center"}
+
+# ANTECEDENTES
+
+![](images/Captura de pantalla 2025-06-10 190040.png){fig-align="center"}
+
+# PREGUNTA DE INVESTIGACIÓN
+
+¿Qué especies de insectos barrenadores se encuentran presentes dentro de las huertas comerciales de aguacate Hass (P. americana), y cuál es su distribución en los municipios productores de Teocelo, Tepetlán y Huatusco, pertenecientes al estado Veracruz?
+
+# HIPOTESIS
+
+En las huertas de aguacate Hass de Veracruz existen diferentes especies de insectos barrenadores que limitan la productividad.
+
+# OBJETIVOS
+
+Determinar la diversidad y distribución de insectos barrenadores presentes en huertas de aguacate Hass en los municipios productores de Teocelo, Tepetlán y Huatusco, pertenecientes al estado Veracruz.
+
+-   Identificar a nivel de especie los insectos barrenadores presentes en árboles de aguacate Hass.
+
+-   Determinar la distribución de las especies de insectos barrenadores en las diferentes zonas de producción de aguacate Hass en Veracruz.
+
+# MATERIALES Y METODOS
+
+![](images/Captura de pantalla 2025-06-10 190650.png){fig-align="center"}
+
+# MATERIALES Y METODOS
+
+![](images/Captura de pantalla 2025-06-10 190731.png){fig-align="center"}
+
+# MATERIALES Y METODOS
+
+![](images/Captura de pantalla 2025-06-07 004859.png){fig-align="center"}
+
+# CONSERVACIÓN DE EJEMPLARES
+
+![](images/Captura de pantalla 2025-06-10 191134.png){fig-align="center"}
+
+# IDENTIFICACIÓN DE ESPECIES
+
+![](images/Captura de pantalla 2025-06-10 191233.png){fig-align="center"}
+
+# ANALISIS ESTADISTICOS
+
+![](images/Captura de pantalla 2025-06-10 191317.png){fig-align="center"}
+
+# REFERENCIAS 
+
+-   Alarcón-Utrera, D., Hernández-Viveros, J., & López-Lima, D. (2024). Presencia de escarabajos barrenadores (Coleoptera: Curculionidae) en el cultivo de aguacate Hass en Veracruz. Memorias de resúmenes del V Congreso Nacional de Entomología Aplicada, 184-187.
+
+-   Barber, H. S. (1923). Two new Conotrachelus from tropical fruits (Coleoptera: Curculionidae). Proceedings of the Entomological Society of Washington, 25(9), 182-185.
