@@ -13,23 +13,23 @@ format:
 
 # INTRODUCCIÓN
 
-![](images/Captura de pantalla 2025-06-13 204223.png){fig-align="center"}
+![](images/Captura de pantalla 2025-06-15 133315.png){fig-align="center"}
 
 # Plagas cuarentenarias de aguacate (*Persea americana*)
 
-![](images/Captura de pantalla 2025-06-07 003747.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-07%20003747.png){fig-align="center"}
 
 # Daños
 
-![](images/Captura de pantalla 2025-06-07 004719.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-07%20004719.png){fig-align="center"}
 
 # JUSTIFICACIÓN
 
-![](images/Captura de pantalla 2025-06-10 185722.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-10%20185722.png){fig-align="center"}
 
 # ANTECEDENTES
 
-![](images/Captura de pantalla 2025-06-10 190040.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-10%20190040.png){fig-align="center"}
 
 # PREGUNTA DE INVESTIGACIÓN
 
@@ -49,29 +49,29 @@ Determinar la diversidad y distribución de insectos barrenadores presentes en h
 
 # MATERIALES Y METODOS
 
-![](images/Captura de pantalla 2025-06-10 190650.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-10%20190650.png){fig-align="center"}
 
 # MATERIALES Y METODOS
 
-![](images/Captura de pantalla 2025-06-10 190731.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-10%20190731.png){fig-align="center"}
 
 # MATERIALES Y METODOS
 
-![](images/Captura de pantalla 2025-06-07 004859.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-07%20004859.png){fig-align="center"}
 
 # CONSERVACIÓN DE EJEMPLARES
 
-![](images/Captura de pantalla 2025-06-10 191134.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-10%20191134.png){fig-align="center"}
 
 # IDENTIFICACIÓN DE ESPECIES
 
-![](images/Captura de pantalla 2025-06-10 191233.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-10%20191233.png){fig-align="center"}
 
 # ANALISIS ESTADISTICOS
 
-![](images/Captura de pantalla 2025-06-10 191317.png){fig-align="center"}
+![](images/Captura%20de%20pantalla%202025-06-10%20191317.png){fig-align="center"}
 
-# REFERENCIAS 
+# REFERENCIAS
 
 -   Alarcón-Utrera, D., Hernández-Viveros, J., & López-Lima, D. (2024). Presencia de escarabajos barrenadores (Coleoptera: Curculionidae) en el cultivo de aguacate Hass en Veracruz. Memorias de resúmenes del V Congreso Nacional de Entomología Aplicada, 184-187.
 

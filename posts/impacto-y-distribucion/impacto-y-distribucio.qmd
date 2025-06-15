@@ -12,7 +12,7 @@ bibliography: references.bib
 
 ## **1. Impacto Económico en la Producción de Aguacate**
 
-La palomilla barrenadora del aguacate, *Stenoma catenifer*, es considerada una de las plagas más dañinas para el aguacate en América Latina, capaz de causar pérdidas de rendimiento que oscilan entre el 45% y más del 95% en huertos afectados, incluso cuando se aplican insecticidas de amplio espectro[@rojas-sandoval2023]. Las larvas se alimentan internamente del fruto, deformándolo y depreciando su valor comercial. En casos severos, la infestación puede llevar al rechazo de la fruta en mercados nacionales e internacionales, lo que afecta directamente la rentabilidad de los productores y limita las exportaciones, especialmente hacia países que prohíben la entrada de frutos procedentes de regiones infestadas, como Estados Unidos y la Unión Europea [@rojas-sandoval2023a].
+La palomilla barrenadora del aguacate, *Stenoma catenifer*, es considerada una de las plagas más dañinas para el aguacate en América Latina, capaz de causar pérdidas de rendimiento que oscilan entre el 45% y más del 95% en huertos afectados, incluso cuando se aplican insecticidas de amplio espectro [@rojas-sandoval2023]. Las larvas se alimentan internamente del fruto, deformándolo y depreciando su valor comercial. En casos severos, la infestación puede llevar al rechazo de la fruta en mercados nacionales e internacionales, lo que afecta directamente la rentabilidad de los productores y limita las exportaciones, especialmente hacia países que prohíben la entrada de frutos procedentes de regiones infestadas, como Estados Unidos y la Unión Europea [@rojas-sandoval2023a].
 
 ![](images/descargar%20(1).webp)
 
@@ -20,7 +20,7 @@ En el caso específico de Veracruz, aunque este estado ocupa el onceavo lugar na
 
 ## **2. Distribución Geográfica y Dispersión**
 
-*Stenoma catenifer* está ampliamente distribuida desde México hasta Brasil, lo que dificulta su control a nivel regional[@rojas-sandoval2023]. En México, la plaga se encuentra en diversos estados productores de aguacate, incluyendo Veracruz, Michoacán, Jalisco, Colima, Oaxaca y Guerrero, con reportes de infestación generalizada en la región central aguacatera de Veracruz [@castillo2012].
+*Stenoma catenifer* está ampliamente distribuida desde México hasta Brasil, lo que dificulta su control a nivel regional [@rojas-sandoval2023]. En México, la plaga se encuentra en diversos estados productores de aguacate, incluyendo Veracruz, Michoacán, Jalisco, Colima, Oaxaca y Guerrero, con reportes de infestación generalizada en la región central aguacatera de Veracruz [@castillo2012].
 
 ![](images/descargar.webp){fig-align="center"}
 
@@ -34,18 +34,18 @@ El control de *Stenoma catenifer* presenta retos considerables:
 
 -   **Manejo integrado:** Se requiere un enfoque que combine monitoreo constante, control biológico (por ejemplo, parasitoides como *Trichogramma* spp.), prácticas culturales (recolección y destrucción de frutos caídos) y control químico. Sin embargo, la eficacia de los insecticidas es limitada debido a la protección que brinda el fruto a las larvas [@andaló2019].
 
--   **Coordinación regional:** La amplia distribución de la plaga exige estrategias coordinadas entre estados y países productores para ser efectivas[@rojas-sandoval2023].
+-   **Coordinación regional:** La amplia distribución de la plaga exige estrategias coordinadas entre estados y países productores para ser efectivas [@rojas-sandoval2023].
 
--   **Concientización y capacitación:** Es esencial que los productores reciban información y capacitación sobre las mejores prácticas de manejo integrado para reducir las poblaciones de la plaga y evitar el uso indiscriminado de insecticidas[@andaló2019].
+-   **Concientización y capacitación:** Es esencial que los productores reciban información y capacitación sobre las mejores prácticas de manejo integrado para reducir las poblaciones de la plaga y evitar el uso indiscriminado de insecticidas [@andaló2019].
 
     ![](images/R-01.jpg)
 
     ## **4. Acciones Fitosanitarias y Resultados Recientes**
 
-El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA) implementa campañas fitosanitarias que incluyen monitoreo, control y erradicación de plagas reglamentadas como *Stenoma catenifer*. Estas campañas han permitido detectar y controlar brotes, como el registrado en octubre, donde se reportaron 260 hectáreas infestadas en Colima, Jalisco y Veracruz, con un porcentaje de infestación del 9.6%[@rojas-sandoval2023a]. El uso de trampas con feromona sexual ha demostrado ser una herramienta útil para el monitoreo y detección temprana de la plaga, aunque su disponibilidad comercial puede ser limitada en algunas regiones[@andaló2019; @castillo2012].
+El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA) implementa campañas fitosanitarias que incluyen monitoreo, control y erradicación de plagas reglamentadas como *Stenoma catenifer*. Estas campañas han permitido detectar y controlar brotes, como el registrado en octubre, donde se reportaron 260 hectáreas infestadas en Colima, Jalisco y Veracruz, con un porcentaje de infestación del 9.6% [@rojas-sandoval2023a]. El uso de trampas con feromona sexual ha demostrado ser una herramienta útil para el monitoreo y detección temprana de la plaga, aunque su disponibilidad comercial puede ser limitada en algunas regiones [@andaló2019; @castillo2012].
 
 ## **5. Innovaciones y Perspectivas en el Manejo**
 
-Estudios recientes han mostrado que el control biológico mediante el uso de nematodos entomopatógenos, como *Heterorhabditis amazonensis*, puede reducir significativamente la población de *S. catenifer* en campo, siendo tan efectivo como el control químico y con potencial para integrarse en programas de manejo integrado de plagas[@andaló2019]. Además, la persistencia de estos nematodos en el suelo bajo las condiciones adecuadas puede ofrecer un control residual prolongado.
+Estudios recientes han mostrado que el control biológico mediante el uso de nematodos entomopatógenos, como *Heterorhabditis amazonensis*, puede reducir significativamente la población de *S. catenifer* en campo, siendo tan efectivo como el control químico y con potencial para integrarse en programas de manejo integrado de plagas [@andaló2019]. Además, la persistencia de estos nematodos en el suelo bajo las condiciones adecuadas puede ofrecer un control residual prolongado.
 
 ![](images/WhatsApp Image 2025-06-14 at 4.47.23 PM (2)-01.jpeg){fig-align="center"}
