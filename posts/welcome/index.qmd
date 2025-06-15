@@ -4,32 +4,51 @@ author: "Juan José Hernández Viveros"
 date: "2025-06-10"
 categories: [polilla barrenadora]
 image: "images/Presentación de diseño de arquitectura y construcción minimalista moderno blanco y celeste (2).jpg"
+bibliography: references.bib
 ---
 
-La palomilla barrenadora del aguacate, científicamente conocida como Stenoma catenifer, es una pequeña mariposa nocturna que representa una de las plagas más dañinas para los cultivos de aguacate en México y otras regiones de América Latina. Esta especie pertenece al orden Lepidoptera y se especializa en atacar frutos y brotes de árboles de la familia Lauraceae, principalmente el aguacate (Persea americana), pero también otras especies relacionadas.
+La palomilla barrenadora del aguacate, científicamente conocida como *Stenoma catenifer*, es una mariposa nocturna del orden Lepidoptera que representa una de las plagas más dañinas para los cultivos de aguacate en México y América Latina. Esta especie se especializa en atacar frutos y brotes de árboles de la familia Lauraceae, principalmente el aguacate (*Persea americana*), pero también puede afectar otras especies relacionada [@hohmann2003].
 
 ![](images/Captura%20de%20pantalla%202025-06-07%20003747.png){fig-align="center"}
 
-Ciclo de Vida y Comportamiento El ciclo biológico completo de Stenoma catenifer dura aproximadamente entre 44 y 49 días, dependiendo de la temperatura ambiental. Durante los meses cálidos, el ciclo es más corto, con etapas que incluyen huevo (5.5 días), larva (18.5 días), pupa (14.1 días) y adulto (5.7 días). En meses fríos, estas etapas se prolongan ligeramente.
+## **1. Biología y Ciclo de Vida**
 
-Las hembras adultas, de hábitos nocturnos, depositan sus huevos principalmente en la superficie rugosa o dañada de los frutos o en brotes jóvenes del árbol. Cada hembra puede poner alrededor de 160 huevos durante su vida, que dura cerca de una semana. Al eclosionar, las larvas comienzan a alimentarse de la epidermis del fruto, perforándolo para penetrar y avanzar hacia la pulpa y la semilla, donde se desarrollan y causan el daño más severo.
+*Stenoma catenifer* (palomilla barrenadora del aguacate) es una mariposa nocturna del orden Lepidoptera y uno de los principales factores limitantes en la producción de aguacate en América Latina. Las hembras depositan sus huevos principalmente en el pedúnculo y superficies rugosas de los frutos, prefiriendo la mitad superior del árbol. Las larvas recién eclosionadas penetran el exocarpo y se alimentan primero de la pulpa, luego de la semilla, formando galerías internas que afectan gravemente la calidad del fruto. El ciclo biológico varía según la temperatura, pero en condiciones favorables puede completarse en poco más de un mes[@andaló2019].
 
-Daños que Produce la Palomilla El daño causado por Stenoma catenifer es múltiple y severo:
+## **2. Daños Específicos y Sintomatología**
 
-Daño a frutos inmaduros: Las larvas barrenan la base y el pedúnculo de los frutos pequeños, lo que provoca su caída prematura, afectando la producción desde etapas tempranas.
+-   **Frutos inmaduros:** Las larvas barren la base y el pedúnculo, provocando la caída prematura de los frutos y pérdidas tempranas en la producción[@hohmann2003].
 
-Daño a frutos maduros: En frutos grandes y casi maduros, las larvas excavan galerías profundas en la pulpa y la semilla, lo que inutiliza el fruto para consumo o venta, generando pérdidas económicas significativas.
+-   **Frutos maduros:** Se observan galerías profundas y acumulación de excrementos, depreciando el valor comercial del fruto y haciéndolo inviable para exportación o consumo[@andaló2019].
 
-Daño a brotes y ramas: En ausencia de frutos, las larvas pueden atacar brotes terminales y laterales, excavando túneles de hasta 25 cm, lo que causa marchitez y muerte de brotes, debilitando el árbol y reduciendo su capacidad productiva a largo plazo.
+-   **Brotes y ramas:** En ausencia de frutos, las larvas pueden atacar brotes y ramas jóvenes, debilitando el árbol y reduciendo su productividad a largo plazo[@andaló2019].
 
-Estos daños no solo afectan la calidad y cantidad de la cosecha, sino que también pueden facilitar la entrada de patógenos secundarios, como hongos, que agravan la pérdida del fruto.
+## **3. Impacto Económico y Distribución**
 
-Impacto Económico y Distribución Stenoma catenifer es una plaga de gran importancia económica en México y en otros países productores de aguacate en América Latina, como Brasil, Venezuela, Guatemala y Perú. En algunas regiones, la infestación puede alcanzar hasta el 95% de los frutos, con pérdidas que pueden superar el 60% en cosechas enteras, lo que representa un serio problema para la rentabilidad de los productores.
+*S. catenifer* es considerada una de las plagas más dañinas del aguacate en países como Brasil, México, Colombia, Perú y Venezuela. Las pérdidas pueden variar entre el 45% y el 95% de la cosecha, incluso con el uso intensivo de insecticidas de amplio espectro. La presencia de la plaga limita la exportación a mercados exigentes, como Estados Unidos y la Unión Europea, donde se prohíbe la entrada de frutos procedentes de regiones infestadas, generando pérdidas económicas significativas para los países exportadores.[@rojas-sandoval2023].
 
-En México, esta plaga está presente en varios estados productores, incluidos Veracruz, Michoacán, Jalisco, Guerrero, Colima, Oaxaca y Querétaro, donde se mantiene bajo control fitosanitario oficial. Su dispersión natural es limitada debido a que los adultos no realizan vuelos largos, pero puede propagarse pasivamente a través del transporte de frutos infestados.
+![](images/descargar.webp){fig-align="center"}
 
-¡Por Qué Nos Preocupa? La preocupación principal radica en que Stenoma catenifer afecta directamente la calidad y cantidad de la producción de aguacate, un producto de alta demanda mundial y gran valor económico para México. Además, la presencia de esta plaga limita la posibilidad de exportar a mercados que exigen frutas libres de insectos cuarentenarios, afectando la competitividad internacional del aguacate mexicano.
+## **4. Factores Ecológicos y Dinámica Poblacional**
 
-![](images/Captura%20de%20pantalla%202025-06-07%20004719.png){fig-align="center"}
+La distribución y severidad de la infestación están ligadas a la fenología del aguacate y las condiciones climáticas. La plaga puede estar activa todo el año en regiones tropicales, con picos poblacionales antes de la cosecha. Se han registrado ataques desde los 400 hasta los 2,400 msnm, adaptándose a diferentes condiciones agroecológicas[@andaló2019].
 
-El control de esta plaga es complejo porque sus larvas se desarrollan dentro del fruto, dificultando su detección y manejo. Además, la palomilla puede afectar árboles jóvenes y brotes, comprometiendo la salud y productividad de las plantaciones a largo plazo.
+## **5. Manejo Integrado y Retos**
+
+-   **Monitoreo:** El uso de trampas con feromona sexual es efectivo para el monitoreo de adultos, aunque en algunos países no están comercialmente disponibles y se recurre a la inspección visual de frutos[@hohmann2003].
+
+-   **Control biológico:** Los parasitoides del género *Trichogramma* han mostrado tasas de parasitismo de huevos superiores al 60% en campo, aunque no siempre son suficientes para mantener la plaga bajo el umbral económico de daño[@hohmann2003].
+
+-   **Control químico:** El uso de insecticidas sintéticos es común, pero su eficacia es limitada porque las larvas se protegen dentro del fruto, además de los riesgos de residuos y resistencia[@vacari2021].
+
+-   **Control biológico con nematodos:** Estudios recientes han demostrado que el nematodo entomopatógeno *Heterorhabditis amazonensis* puede reducir significativamente la población de *S. catenifer* en campo, siendo tan efectivo como el control químico y con potencial para integrarse en programas de manejo integrado de plagas[@hohmann2003].
+
+-   **Manejo cultural:** Prácticas como la recolección y destrucción de frutos caídos y la poda sanitaria contribuyen a reducir la incidencia de la plaga[@hohmann2003].
+
+## **6. Implicaciones Fitosanitarias y Cuarentenarias**
+
+La presencia de *S. catenifer* es considerada un riesgo fitosanitario y cuarentenario, limitando la exportación de aguacate a mercados internacionales. Por ello, se recomienda un monitoreo constante y la aplicación de estrategias integradas para su manejo, priorizando métodos biológicos y culturales para reducir el uso de insecticidas y los riesgos asociados[@vacari2021]
+
+![](images/Presentación%20de%20diseño%20de%20arquitectura%20y%20construcción%20minimalista%20moderno%20blanco%20y%20celeste%20(3).jpg){fig-align="center"}
+
+El control de esta plaga es complejo porque sus larvas se desarrollan dentro del fruto, dificultando su detección y manejo. Además, la palomilla puede afectar árboles jóvenes y brotes, comprometiendo la salud y productividad de las plantaciones a largo plazo [@hohmann2003].
