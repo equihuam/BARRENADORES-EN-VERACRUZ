@@ -1,0 +1,140 @@
+---
+title: Presencia de Stenoma catenifer Walsingham (Lepidóptera Elachistidae) y su comportamiento atípico en cultivo de aguacate Hass en Xico, Veracruz.
+subtitle: Plaga Cuarentenaria
+
+author:
+  - name: Juan José Hernández Viveros
+    email: juanjosehernandezviveros@gmail.com
+   
+    affiliations:
+      - name: Maestría en ciencias Agronómicas
+abstract: | 
+  México es reconocido como centro de origen del aguacate, así como centro de distribución de insectos plaga que afectan su productividad y limitan la movilidad de las cosechas por las restricciones fitosanitarias que existen. En los últimos años, Veracruz ha incrementado la superficie cultivada y se han presentado daños asociados a insectos barrenadores, sin embargo, no hay estudios que determinen las especies presentes; en este trabajo, se identificaran las especies de barrenadores y su distribución en los principales municipios productores de aguacate Hass en Veracruz. El muestreo en campo se realizará en un periodo de doce meses, comenzando en junio de 2025 y terminando en junio de 2026. Para realizar este trabajo de investigación se eligieron tres municipios del estado donde se encuentran las principales zonas aguacateras (Teocelo, Tepetlán y Huatusco), con diferentes características edafoclimáticas, donde se colectarán insectos adultos y frutos perforados con daños atribuidos a los insectos barrenadores del aguacate. Los insectos se identificarán a nivel de especie y se determinara su abundancia y distribución.
+thanks: |
+  Agradezco a mis tutores
+keywords: [Persea Americana, Plaga, Identificación taxonómica, Coleoptera, Lepidoptera]
+    
+date: today
+date-format: full
+bibliography: references.bib
+format:
+  academic-typst:
+    section-numbering: "1.1.1"
+    bibliographystyle: "chicago-author-date"
+    include-in-header:
+      - text: '#import "@preview/mitex:0.2.4": *'
+#brand: 
+#  typography:
+#    fonts:
+#      - family: Jost
+#        source: google
+#        weight: [100, 200, 300, 400, 500, 600, 700, 800, 900]
+#      - family: Libertinus Serif
+#        source: file
+#        files:
+#          - path: static/fonts/Libertinus-7.051/static/OTF/LibertinusSerif-Regular.otf
+#          - path: static/fonts/Libertinus-7.051/static/OTF/LibertinusSerif-Italic.otf
+#            style: italic
+#      - family: Libertinus Math
+#        source: file
+#        files:
+#          - path: static/fonts/Libertinus-7.051/static/OTF/LibertinusMath-Regular.otf
+#    base: Libertinus Serif
+#    headings: Jost
+#  defaults:
+#    academic-typst:
+#      mathfont: Libertinus Math
+execute: 
+  echo: false
+  warning: false
+---
+
+# Introducción
+
+El aguacate es uno de los cultivos más importantes de México debido a la derrama económica asociada a su producción. Este fruto es el principal producto agrícola de exportación.[@vargas-mendoza2024]. La importancia del aguacate trasciende ya que representa un impulsor en el desarrollo de diversas regiones del país, especialmente en zonas rurales donde su presencia genera empleo y bienestar. Por ello se busca contar con las certificaciones correspondientes para iniciar la exportación del fruto en próximos años al mercado europeo y asiático, para posteriormente incluirse en la lista de entidades exportadoras a Estados Unidos . Sin embargo, el crecimiento acelerado del cultivo ha traído consigo la presencia de insectos barrenadores que se encuentran regulados por las restricciones fitosanitarias que establecen los países importadores al aguacate mexicano; los cuales provocan daños en frutos, ramas y troncos, lo que demerita la calidad de la cosecha y reduce la vida reproductiva de los arboles; además limitan la comercialización y la movilización ya que los compradores solicitan al productor una cartilla fitosanitaria que ampare que los frutos están libres de plagas cuarentenarias[@impacto2005]. En los principales estados productores de México se ha reportado la presencia de diferentes barrenadores como Conotrachelus perseae Barber y Conotrachelus aguacatae Barber (barrenadores pequeños del hueso), Heilipus lauri Boheman (barrenador grande del hueso), Stenoma catenifer Walsingham (palomilla barrenadora del hueso) y Copturus aguacatae Kissinger (barrenador de las ramas del aguacate) [@carabalímuñoz2023]. Este ensayo aborda el comportamiento atípico de Stenoma catenifer en el cultivo de aguacate Hass en el municipio de Xico, Veracruz, explorando su biología, distribución, impacto económico y fitosanitario, así como los diferentes métodos de control que ayuden a mitigar los daños causados de esta plaga.
+
+## Problema de investigación
+
+En huertas comerciales de aguacate Hass y huertos de traspatio del estado de Veracruz se ha detectado la presencia de insectos barrenadores que causan diversos daños. Se han observado afectaciones por larvas en ramas. Las cuales debido a las perforaciones producto de su alimentación, se debilitan y se desprenden del árbol. Así como severos daños provocados por larvas en el tronco de los árboles, donde estas hacen galerías internas por toda la circunferencia, provocando la muerte del árbol debido a la interrupción del flujo de nutrimentos [@arellanocruz2023]. Además, también se han detectado frutos perforados, donde posteriormente se desarrollan larvas que barrenan la semilla del fruto. Las características descritas anteriormente indican la presencia de diferentes especies de insectos barrenadores cuarentenarios en el cultivo de aguacate, lo que es una importante limitante para el desarrollo de este cultivo en el estado de Veracruz, debido a las restricciones en la comercialización de la cosecha.
+
+## Pregunta de investigación
+
+¿Qué especies de insectos barrenadores se encuentran presentes dentro de las huertas comerciales de aguacate Hass (*P. americana*), y cuál es su distribución en los municipios productores de Teocelo, Tepetlán y Huatusco, pertenecientes al estado Veracruz?
+
+## Justificación
+
+En los últimos años, el cultivo de aguacate ha incrementado en Veracruz, debido a que cuenta con las condiciones edafoclimáticas adecuadas para el desarrollo de este frutal. Sin embargo, se han detectado importantes afectaciones atribuidas a insectos barrenadores y actualmente no existe una campaña fitosanitaria que promueva el manejo y apoye la investigación sobre estas plagas. Los productores de este cultivo han visto mermadas sus cosechas, debido a la falta de información acerca de las especies presentes, su distribución y las estrategias de manejo poco efectivas. Conocer las especies y su distribución servirá para establecer estrategias de manejo puntuales, que en el corto y mediano plazo favorezcan la comercialización y permita la movilización de la cosecha en mercados más rentables, dentro y fuera del país.
+
+## Hipótesis general
+
+En las huertas de aguacate Hass de Veracruz existen diferentes especies de insectos barrenadores que limitan la productividad.
+
+## Objetivo general
+
+Analizar el comportamiento atípico de la palomilla barrenadora (Stenoma catenifer) en el cultivo de aguacate Hass en el municipio de Xico, Veracruz, evaluando sus características biológicas, su impacto en la producción y las implicaciones fitosanitarias, con el fin de proponer recomendaciones para su manejo eficiente.
+
+**Especificos**
+
+• Identificar a nivel de especie los insectos barrenadores presentes en árboles de aguacate Hass. • Determinar la distribución de las especies de insectos barrenadores en las diferentes zonas de producción de aguacate Hass en Veracruz.
+
+## Marco teórico
+
+Existen diversas plagas que causan daños al cultivo del aguacate en México, algunas se encuentran en observancia general, por el impacto que causan en la productividad del cultivo y las limitantes que provocan para la movilización del fruto en el mercado mexicano y de exportación [@impacto2005]. En México, estas plagas se han encontrado en huertas comerciales y huertos de traspatio, con una distribución geográfica amplia. La palomilla barrenadora (S. catenifer) se ha detectado en zonas tropicales y subtropicales de Sudamérica, Centroamérica y en México en los estados de Oaxaca, Tamaulipas, Querétaro, Colima, Guerrero, Michoacán, Nuevo León y Chiapas [@palacios-torres2016]. En Veracruz se detectó en Persea schiedeana Nees silvestres en la zona montañosa central [@arellanocruz2023]. El barrenador grande del hueso (H. lauri) se ha encontrado distribuido en los estados de Morelos, Puebla, Hidalgo y Guerrero. En Veracruz se encontraron ejemplares presentes en P. schiedeana silvestres en los municipios de Zongolica y Huatusco [@castañeda-vildózola2009]. El barrenador pequeño de la semilla (C. perseae y C. aguacate) se distribuye en Chiapas, Colima, Guanajuato, Guerrero, estado de México, algunas zonas de Michoacán, Morelos, Puebla, Nayarit, Oaxaca, Querétaro y Veracruz. De este último se encontraron larvas presentes en frutos de P. americana var. drimifolya (aguacate criollo) en los municipios de Ayahuaulco, Jalacingo y Xalapa. [@castañeda-vildózola2009]. El barrenador de ramas y tronco (C. aguacatae) se registró como nativo de México y su presencia se ubicó principalmente en zonas aguacateras del país como los estados de Guanajuato, México, Michoacán, Morelos, Oaxaca, Puebla, Nayarit, Nuevo León, Colima, Guerrero, Jalisco, Querétaro y Veracruz.
+
+## Metodología
+
+**Sitios de estudio**
+
+El trabajo de investigación se realizará en los municipios de Teocelo, Tepetlán y Huatusco, pertenecientes a la región montañosa del estado de Veracruz. El municipio de Teocelo se localiza entre los paralelos 19° 20’ y 19° 24’ latitud norte, los meridianos 96° 50’ y 97° 02’ longitud oeste, con una altitud entre 500 y 1420 msnm, con clima semicálido húmedo, temperatura de 18 – 24°C y una precipitación de 1400 – 2100 mm (INEGI, 2010a). Tepetlán se encuentra entre los paralelos 19° 36’ y 19° 44’ latitud norte; los meridianos 96° 43’ y 96° 50’ longitud oeste; con una altitud entre 800 y 2100 msnm; clima semicálido húmedo; temperatura de 14 – 24°C y una precipitación anual de 1100 – 1600 mm (INEGI, 2010b); y por último, Huatusco se localiza entre los paralelos 19° 04’ y 19° 13’ latitud norte y 96° 41’ y 97° 04’ longitud oeste; con una altitud entre 400 y 2000 msnm; clima semicálido húmedo; temperatura de 16 – 26°C y una precipitación de 1100 – 1600 mm.
+
+**Metodo de colecta**
+
+Para la captura de coleópteros adultos del barrenador de tronco y ramas, se realizará un muestreo directo que consistirá en la selección de diez árboles al azar en una hectárea, de cada uno de los sitios de estudio. El muestreo se realizará de manera visual, buscando los insectos en la parte media o inferior de la copa del árbol, también se colocará una manta blanca de 3x3 m bajo el árbol seleccionado y se sacudirán las ramas manualmente para colectar los insectos caídos. Asimismo, para la obtención de larvas y huevos de coleópteros y lepidópteros barrenadores de frutos, se recolectarán únicamente los frutos que presenten daños o perforaciones atribuidas a estos insectos, también se recolectarán los frutos tirados en el suelo con estas mismas características.
+
+![](images/Captura%20de%20pantalla%202025-06-07%20003747.png){fig-align="center"}
+
+Los frutos recolectados en campo se colocarán en bolsas plásticas para trasladarlos al laboratorio de Parasitología y Control Biológico de la Facultad de Ciencias Agrícolas, donde posteriormente se colocarán en un contenedor de plástico, tapados con malla o tela para que eclosionen los huevos y evitar la pérdida de larvas que emerjan de los frutos; a este contendor se le agregara al fondo una pequeña capa de sustrato para simular las condiciones en campo.
+
+![](images/Captura%20de%20pantalla%202025-06-07%20004719-01.png){fig-align="center"}
+
+Para la obtención de lepidópteros adultos se colocará una trampa Pherocon por hectárea (tipo ala con la feromona (Z)-9,13-Tetradecadien-11ynal), en esta trampa se quedarán adheridos los adultos que emerjan de los frutos y será revisada y reemplazada mensualmente. Los muestreos se realizarán de manera mensual a partir de junio de 2025 a junio de 2026. Falta el muestreo para los barrenadores del tronco.
+
+![](images/Captura%20de%20pantalla%202025-06-10%20190731.png){fig-align="center"}
+
+**Conservación de ejemplares**
+
+Los coleópteros adultos capturados se introducirán directamente en un recipiente de vidrio o plástico con etanol al 70%; los lepidópteros se mantendrán adheridos en la trampa colocada para conservar sus características morfológicas. Las larvas se introducirán vivas en agua hirviendo durante 30 segundos, después del tiempo transcurrido, se retirarán del fuego para que se enfríen en un lapso de 3 a 5 minutos, posteriormente se retiraran los ejemplares y se colocarán en un recipiente de vidrio o plástico con etanol al 70%.
+
+**Identificación de insectos**
+
+La identificación de las especies de insectos se realizará con ayuda de claves taxonómicas especializadas; para el caso de los coleópteros se utilizarán las claves de y Whitehead (1979), y se tomará como referencia la descripción morfológica realizada por [@castañeda-vildózola2009]. Para el caso de lepidópteros se determinarán tomando como referencia la clave de Gilligan et al., (2018). Una vez identificados, se cuantificarán los ejemplares por especie y por sitio de muestreo para obtener datos poblacionales.
+
+![](images/Captura%20de%20pantalla%202025-06-10%20190824.png){fig-align="center"}
+
+**Análisis de datos**
+
+Para comparar la diversidad de insectos barrenadores se utilizarán índices de diversidad alfa y beta en el software EstimateS.
+
+**Cálculo de índices de diversidad alfa** Estos índices permiten calcular la diversidad de especies dentro de un habitad o zona específica.
+
+**Cálculos de índices de diversidad beta** La diversidad beta mide el cambio en la composición de especies entre diferentes sitios o comunidades. Es decir, te dice cuán diferentes son las comunidades entre sí.
+
+**Modelo de distribucion**
+
+Para determinar la distribución de las especies, se georreferenciarán los sitios de colecta por medio de un sistema de posicionamiento global. Para cada árbol muestreado, se registrarán las especies encontradas; para esto se utilizará el sistema de información geográfica QGIS, con esta herramienta se podrán representar datos de distribución por especie.
+
+## Resultados Esperados
+
+Los resultados esperados del estudio sobre insectos barrenadores en el cultivo de aguacate Hass en Veracruz son los siguientes:
+
+Identificación precisa a nivel de especie de los insectos barrenadores presentes en las huertas comerciales de aguacate Hass en los municipios de Teocelo, Tepetlán y Huatusco, lo que permitirá conocer la diversidad específica de estas plagas en la región.
+
+Determinación de la abundancia y distribución geográfica de las especies de barrenadores en las diferentes zonas productoras de aguacate Hass en Veracruz, mediante el uso de muestreos directos, trampas de feromonas y georreferenciación con sistemas de información geográfica (QGIS).
+
+Obtención de datos poblacionales que permitan comparar la diversidad alfa (dentro de cada sitio) y beta (entre sitios) de las especies de insectos barrenadores, facilitando el análisis de la composición y variabilidad de las comunidades de plagas en las distintas áreas de estudio.
+
+Generación de información clave para el diseño de estrategias de manejo fitosanitario específicas y efectivas, orientadas a reducir los daños causados por estos insectos y mejorar la calidad y comercialización del aguacate Hass en Veracruz.
+
+Contribución a la certificación fitosanitaria necesaria para la exportación del aguacate a mercados nacionales e internacionales, al contar con un registro actualizado y detallado de las especies cuarentenarias presentes y su distribución.
+
+En conjunto, estos resultados permitirán fortalecer el control de plagas en el cultivo de aguacate Hass en Veracruz, incrementar la productividad y facilitar la apertura de nuevos mercados para los productores locales.
