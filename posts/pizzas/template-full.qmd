@@ -18,6 +18,8 @@ date: today
 date-format: full
 bibliography: references.bib
 format:
+  html: default
+  docx: default
   academic-typst:
     section-numbering: "1.1.1"
     bibliographystyle: "chicago-author-date"

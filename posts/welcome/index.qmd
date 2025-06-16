@@ -9,7 +9,7 @@ bibliography: references.bib
 
 La palomilla barrenadora del aguacate, científicamente conocida como *Stenoma catenifer*, es una mariposa nocturna del orden Lepidoptera que representa una de las plagas más dañinas para los cultivos de aguacate en México y América Latina. Esta especie se especializa en atacar frutos y brotes de árboles de la familia Lauraceae, principalmente el aguacate (*Persea americana*), pero también puede afectar otras especies relacionada [@hohmann2003].
 
-![](images/Captura%20de%20pantalla%202025-06-07%20003747.png){fig-align="center"}
+![](images/Stemona-catenefir.png){fig-align="center"}
 
 ## **1. Biología y Ciclo de Vida**
 
